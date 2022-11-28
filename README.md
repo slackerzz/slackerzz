@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working mainly on Magento 2 at [@magespecialist](https://github.com/magespecialist)
-- ⚡ I develop in Laravel in the free time
+<!--  - 🔭 I’m currently working mainly on Magento 2 at [@magespecialist](https://github.com/magespecialist)
+- ⚡ I develop in Laravel in the free time -->
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/lorenzostramaccia/)
 <!--
 **slackerzz/slackerzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
