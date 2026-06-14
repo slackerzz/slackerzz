@@ -1,4 +1,4 @@
-# Hi, I'm Lorenzo 🏝️
+# 👋 Hi, I'm Lorenzo
 
 **Senior Software Engineer at [SonicJobs](https://sonicjobs.com) · Italy**
 
